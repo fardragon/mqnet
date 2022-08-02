@@ -1,0 +1,4 @@
+[submodule "external/paho.mqtt.c"]
+	path = external/paho.mqtt.c
+	url = https://github.com/eclipse/paho.mqtt.c
+	branch = master
